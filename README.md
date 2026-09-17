@@ -39,3 +39,5 @@ Junior Software QA Engineer
 
 Git practical training started.
 
+Git practice.
+
