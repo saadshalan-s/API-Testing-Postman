@@ -36,3 +36,6 @@ Tester
 
 Saad Kamal Shalan
 Junior Software QA Engineer
+
+Git practical training started.
+
