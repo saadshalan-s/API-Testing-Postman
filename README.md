@@ -39,9 +39,9 @@ Junior Software QA Engineer
 
 Git practical training started.
 
-Conflict test from main.
 
+Conflict test from main.
 Bug fix branch practice.
 
-Gir diff practice
+Git diff practice
 
