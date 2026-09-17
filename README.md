@@ -41,3 +41,5 @@ Git practical training started.
 
 Git practice.
 
+Bug fix branch practice.
+
